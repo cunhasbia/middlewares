@@ -1,6 +1,6 @@
 # Middlewares
 
-Back-end project developed to exercise **Middleware** concepts in a **Restful API with Nodejs**, that validates a request and returns a response with errors if any of the configured validation rules fail.<br>
+Back-end project developed to practice **Middleware** concepts in a **Restful API with Nodejs**, that validates a request and returns a response with errors if any of the configured validation rules fail.<br>
 
 It was also built using **Model-View-Controller (MVC) software design pattern** - one of the most popular architectures for applications; and using **ESLint** - tool for identifying and reporting on patterns in Javascript.
 
